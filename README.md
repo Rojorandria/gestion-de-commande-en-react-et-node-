@@ -29,6 +29,6 @@ $npm install react-scripts
 
 $npm start 
 
-if the application has been launched use 
+if the application has been launched use the
 username: zebu 
 password :zebu 
