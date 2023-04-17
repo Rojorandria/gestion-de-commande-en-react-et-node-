@@ -20,4 +20,15 @@ Npm is also used to manage CSS and JavaScript dependencies used in this applicat
 The npm run command will list all of the scripts available to run for this project.
 
  on react folder 
+
+to install all the dependencies of your project.
  
+$ npm install
+
+$npm install react-scripts
+
+$npm start 
+
+if the application has been launched use 
+username: zebu 
+password :zebu 
