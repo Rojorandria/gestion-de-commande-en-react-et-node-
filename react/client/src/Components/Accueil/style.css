@@ -1,0 +1,47 @@
+.card{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+.card-list{
+    width: 30%;
+    height: 100px;
+    margin: 0;
+    padding: 2px;
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    display: block;
+    align-items: center;
+    text-align: center;
+}
+.card-commande{
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+    margin-top: 2%;
+}
+.card-listcom{
+    width: 95%;
+    height: 50px;
+    margin: 10px;
+    padding: 15px;
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+}
+.titre-commande{
+    display: inline;
+}
+.nbr-commande{
+    float: right;
+    padding-right: 10px;
+}
+.link-commande{
+    text-decoration: none;
+    cursor: pointer;
+    color: black;
+}

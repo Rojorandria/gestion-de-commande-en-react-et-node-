@@ -1,0 +1,30 @@
+import { IconName } from "react-icons/io5";
+IoBarChartSharp <icons analitics>
+IoStatsChartSharp <analitics>
+IoExitOutline <exit>
+IoLogOut <exit>
+IoListSharp <list menu>
+IoMenuSharp <list menu>
+IoSaveOutline <imprimer>
+import { IconName } from "react-icons/bs";
+BsDistributeVertical <distribution>
+BsFillBookFill <Mqteriel>
+import { IconName } from "react-icons/fa";
+FaSchool <ecole>
+import { IconName } from "react-icons/ai";
+AiOutlineEdit modifier
+
+import { IconName } from "react-icons/gr";
+GrAdd ajouter
+
+GiCancel annuler
+
+MdSend envoyer
+
+MdDelete supprimer
+
+
+keziah fiti 
+
+
+

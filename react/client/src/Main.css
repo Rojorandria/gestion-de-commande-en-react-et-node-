@@ -1,0 +1,12 @@
+.main-flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+.main{
+    width: 85%;
+    min-height: 610px;
+    position: absolute;
+    left: 15%;
+}
